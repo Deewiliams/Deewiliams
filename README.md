@@ -21,7 +21,7 @@ Hi, I'm Desire, a software Engineer 🚀 from Zambia, currently, I'm a student o
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: no fuct apparently ;
-- 📫 How to reach me: manderat206@gmail.com;
+- 📫 How to reach me: desireirankundawilliams@gmail.com;
 
 **Languages and Tools:**  
 
