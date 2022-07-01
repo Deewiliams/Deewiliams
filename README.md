@@ -14,14 +14,6 @@
 Hi, I'm Desire, a software Engineer 🚀 from Zambia, I enjoy working on challenges that help me fulfill the goals of the organisation. I am very passionate about learning new technologies and working with a bigger team to learn new things and share my knowledge with others
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
-**Talking about Personal Stuffs:**
-
-- 🌱 I’m currently learning JavaScript; 
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: no fuct apparently ;
-- 📫 How to reach me: desireirankundawilliams@gmail.com;
 
 **Languages and Tools:**  
 
