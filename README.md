@@ -6,7 +6,7 @@ A software engineer from Zambia. I thrive on solving challenges that drive my or
 
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611jlbpteiiwvm5ou5eaoe30nlxgtk7mka3lt71r56i&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-
+<br />
 
 **Languages and Tools:**  
 
