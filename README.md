@@ -8,7 +8,8 @@
 Hi, I’m Desire, a software engineer from Zambia. I thrive on solving challenges that drive my organization’s success. I’m passionate about exploring new technologies and collaborating with teams to exchange knowledge and grow together
 
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="left" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611jlbpteiiwvm5ou5eaoe30nlxgtk7mka3lt71r56i&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+
 
 **Languages and Tools:**  
 
