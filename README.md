@@ -5,7 +5,7 @@
 <br />
 
 
-Hi, I'm Desire, a software Engineer 🚀 from Zambia, I enjoy working on challenges that help me fulfill the goals of the organisation. I am very passionate about learning new technologies and working with a bigger team to learn new things and share my knowledge with others
+Hi, I’m Desire, a software engineer from Zambia. I thrive on solving challenges that drive my organization’s success. I’m passionate about exploring new technologies and collaborating with teams to exchange knowledge and grow together
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
