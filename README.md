@@ -2,7 +2,7 @@
 
 
 <br />
-## A software engineer from Zambia. I thrive on solving challenges that drive my organization’s success. I’m passionate about exploring new technologies and collaborating with teams to exchange knowledge and grow together
+### A software engineer from Zambia. I thrive on solving challenges that drive my organization’s success. I’m passionate about exploring new technologies and collaborating with teams to exchange knowledge and grow together
 <br />
 <br />
 
