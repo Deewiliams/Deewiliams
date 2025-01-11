@@ -28,11 +28,6 @@ A software engineer from Zambia. I thrive on solving challenges that drive my or
 <br />
 <br />
  
- <p align="center">
-  <strong>
- My Github Stats
-  </strong> 
-  </p>
 
  
 
