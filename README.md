@@ -33,17 +33,6 @@ A software engineer from Zambia. I thrive on solving challenges that drive my or
  My Github Stats
   </strong> 
   </p>
-  <hr>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deewiliams&hide=less,scss,hack&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=8" alt="Desire" valign="center"/>
-</p>
-<table>
-  <tr>
-  <td halign="bottom"><img src="https://github-readme-stats.vercel.app/api?username=Deewiliams&count_private=true&count_public=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true">
-  </td> 
 
-  <td halign="bottom"><img src="https://github-readme-streak-stats.herokuapp.com?user=Deewiliams&theme=chartreuse-dark"></td>
-</tr>
-</table>
  
 
